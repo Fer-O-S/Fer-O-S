@@ -14,8 +14,9 @@
 
 Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de ingeniería. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda aportar mi **liderazgo**, **compromiso** y **responsabilidad**.
 
-- 🎯 **Enfoque actual**: Desarrollo Backend con .NET
-- 🌱 **Creciendo hacia**: Desarrollador Full Stack
+- 🎯 **Enfoque actual**: Desarrollo de APIs con NestJS y .NET
+- 🌱 **Creciendo hacia**: Desarrollador Full Stack (Web & Mobile)
+- 🔧 **Experiencia**: APIs REST que consumen equipos de Frontend Web y Mobile
 - 💡 **Mentalidad**: Analítico y orientado a soluciones
 - 🎸 **Pasatiempos**: Guitarra, deportes (fútbol/basquet), videojuegos
 - 🌍 **Idiomas**: Español (nativo), Inglés y Portugués (aprendiendo)
@@ -36,26 +37,37 @@ Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de 
 
 ### **Frameworks & Tecnologías**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Herramientas de Desarrollo**
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Proyecto Destacado
+## 🏆 Experiencia y Proyectos
 
 ### 🎵 **Plugin de Audio Web para OJS**
 **Plugin personalizado para Base4** que implementa un reproductor de audio web con protección contra descargas no autorizadas.
 
 **Tecnologías utilizadas:** JavaScript, PHP, HTML5 Audio API  
 **Impacto:** Protección de contenido digital y mejora en la experiencia de usuario
+
+### 🚀 **Desarrollo de APIs con NestJS**
+**Arquitectura de microservicios** para aplicaciones web y móviles, diseñando APIs RESTful escalables.
+
+**Stack actual:** NestJS, TypeScript, .NET  
+**Colaboración:** Trabajo directo con equipos Frontend (Web) y Mobile
 
 ---
 
@@ -76,9 +88,13 @@ Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de 
 ```javascript
 const fernando = {
   actualRole: "Backend Developer",
+  currentStack: ["NestJS", ".NET", "TypeScript"],
   currentStatus: "Estudiante de Ingeniería",
+  experience: "Desarrollo de APIs REST para equipos Web y Mobile",
+  mobileExperience: ["Flutter", "Android Studio"],
   goals: [
-    "Convertirme en Full Stack Developer",
+    "Dominar arquitecturas de microservicios",
+    "Convertirme en Full Stack Developer (Web & Mobile)",
     "Trabajar en empresas tecnológicas reconocidas",
     "Liderar equipos de desarrollo",
     "Contribuir a proyectos de impacto"
