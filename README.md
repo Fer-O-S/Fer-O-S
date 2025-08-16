@@ -18,7 +18,7 @@ Apasionado por crear soluciones tecnológicas innovadoras, con experiencia en de
 
 - 🎯 **Especialidades**: Backend Development, APIs REST, Mobile Development
 - 🌱 **Explorando**: Arquitecturas de microservicios y tecnologías emergentes
-- 🔧 **Stack versatil**: Web, Mobile y Desktop
+- 🔧 **Stack versatil**: Web y Mobile
 - 💡 **Mentalidad**: Analítico y orientado a soluciones
 - 🎸 **Pasatiempos**: Guitarra, deportes (fútbol/basquet), videojuegos
 - 🌍 **Idiomas**: Español (nativo), Inglés y Portugués (aprendiendo)
