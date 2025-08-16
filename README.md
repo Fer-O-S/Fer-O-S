@@ -1,4 +1,4 @@
-<div aling=center># 👋 ¡Hola! Soy Fernando</div>
+# 👋 ¡Hola! Soy Fernando
 
 <div align="center">
   
