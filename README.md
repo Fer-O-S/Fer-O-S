@@ -12,7 +12,7 @@
 
 > **Desarrollador Backend** con mentalidad **Full Stack** | **Estudiante de Ingeniería** comprometido con la excelencia
 
-Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de ingeniería. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda aportar mi **liderazgo**, **compromiso** y **responsabilidad**.
+Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de ingeniería. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda desarrollar mis habilidades de **liderazgo**, aplicar mi **compromiso** y demostrar mi **responsabilidad**.
 
 - 🎯 **Enfoque actual**: Desarrollo de APIs con NestJS y .NET
 - 🌱 **Creciendo hacia**: Desarrollador Full Stack (Web & Mobile)
@@ -95,11 +95,11 @@ const fernando = {
   goals: [
     "Dominar arquitecturas de microservicios",
     "Convertirme en Full Stack Developer (Web & Mobile)",
+    "Desarrollar habilidades de liderazgo técnico",
     "Trabajar en empresas tecnológicas reconocidas",
-    "Liderar equipos de desarrollo",
     "Contribuir a proyectos de impacto"
   ],
-  values: ["Compromiso", "Liderazgo", "Responsabilidad", "Aprendizaje continuo"]
+  values: ["Compromiso", "Responsabilidad", "Crecimiento profesional", "Aprendizaje continuo"]
 };
 ```
 
