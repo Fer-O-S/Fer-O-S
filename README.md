@@ -55,19 +55,17 @@ Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de 
 
 ---
 
-## 🏆 Experiencia y Proyectos
+## 🔥 Actualmente Construyendo
 
-### 🎵 **Plugin de Audio Web para OJS**
-**Plugin personalizado para Base4** que implementa un reproductor de audio web con protección contra descargas no autorizadas.
+<div align="center">
 
-**Tecnologías utilizadas:** JavaScript, PHP, HTML5 Audio API  
-**Impacto:** Protección de contenido digital y mejora en la experiencia de usuario
+**🚀 APIs escalables con NestJS**  
+**📱 Experiencias móviles con Flutter**  
+**🎵 Soluciones web creativas**
 
-### 🚀 **Desarrollo de APIs con NestJS**
-**Arquitectura de microservicios** para aplicaciones web y móviles, diseñando APIs RESTful escalables.
+*"Transformando ideas en código que funciona"*
 
-**Stack actual:** NestJS, TypeScript, .NET  
-**Colaboración:** Trabajo directo con equipos Frontend (Web) y Mobile
+</div>
 
 ---
 
