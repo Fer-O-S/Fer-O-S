@@ -16,7 +16,7 @@ Desarrollador Backend con mentalidad **Full Stack** | **Estudiante de Ingenierí
 
 Apasionado por crear soluciones tecnológicas innovadoras, con experiencia en desarrollo web, APIs y aplicaciones móviles. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda desarrollar mis habilidades de **liderazgo**, aplicar mi **compromiso** y demostrar mi **responsabilidad**.
 
-- 🎯 **Especialidades**: Backend Development, APIs REST, Mobile Development
+- 🎯 **Especialidades**: Web Development, Backend Development, APIs REST, Mobile Development
 - 🌱 **Explorando**: Arquitecturas de microservicios y tecnologías emergentes
 - 🔧 **Stack versatil**: Web y Mobile
 - 💡 **Mentalidad**: Analítico y orientado a soluciones
@@ -121,9 +121,9 @@ const fernando = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-ortega-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fer-O-S)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fos13022004@gmail.com)
 
 </div>
 
