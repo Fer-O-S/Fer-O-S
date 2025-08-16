@@ -12,11 +12,13 @@
 
 > **Desarrollador Backend** con mentalidad **Full Stack** | **Estudiante de Ingeniería** comprometido con la excelencia
 
-Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de ingeniería. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda desarrollar mis habilidades de **liderazgo**, aplicar mi **compromiso** y demostrar mi **responsabilidad**.
+Desarrollador Backend con mentalidad **Full Stack** | **Estudiante de Ingeniería** comprometido con la excelencia
 
-- 🎯 **Enfoque actual**: Desarrollo de APIs con NestJS y .NET
-- 🌱 **Creciendo hacia**: Desarrollador Full Stack (Web & Mobile)
-- 🔧 **Experiencia**: APIs REST que consumen equipos de Frontend Web y Mobile
+Apasionado por crear soluciones tecnológicas innovadoras, con experiencia en desarrollo web, APIs y aplicaciones móviles. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda desarrollar mis habilidades de **liderazgo**, aplicar mi **compromiso** y demostrar mi **responsabilidad**.
+
+- 🎯 **Especialidades**: Backend Development, APIs REST, Mobile Development
+- 🌱 **Explorando**: Arquitecturas de microservicios y tecnologías emergentes
+- 🔧 **Stack versatil**: Web, Mobile y Desktop
 - 💡 **Mentalidad**: Analítico y orientado a soluciones
 - 🎸 **Pasatiempos**: Guitarra, deportes (fútbol/basquet), videojuegos
 - 🌍 **Idiomas**: Español (nativo), Inglés y Portugués (aprendiendo)
@@ -55,15 +57,15 @@ Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de 
 
 ---
 
-## 🔥 Actualmente Construyendo
+## 🔥 Construyendo con Tecnología
 
 <div align="center">
 
-**🚀 APIs escalables con NestJS**  
-**📱 Experiencias móviles con Flutter**  
-**🎵 Soluciones web creativas**
+**🚀 APIs robustas y escalables**  
+**📱 Aplicaciones móviles nativas**  
+**🌐 Soluciones web modernas**
 
-*"Transformando ideas en código que funciona"*
+*"De la idea al código, explorando todas las posibilidades"*
 
 </div>
 
@@ -85,19 +87,22 @@ Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de 
 
 ```javascript
 const fernando = {
-  actualRole: "Backend Developer",
-  currentStack: ["NestJS", ".NET", "TypeScript"],
-  currentStatus: "Estudiante de Ingeniería",
-  experience: "Desarrollo de APIs REST para equipos Web y Mobile",
-  mobileExperience: ["Flutter", "Android Studio"],
+  role: "Backend Developer & Student",
+  technologies: ["NestJS", ".NET", "TypeScript", "Flutter", "Angular"],
+  capabilities: [
+    "API Development & Integration", 
+    "Mobile App Development", 
+    "Web Applications",
+    "Database Design"
+  ],
   goals: [
     "Dominar arquitecturas de microservicios",
-    "Convertirme en Full Stack Developer (Web & Mobile)",
+    "Explorar nuevas tecnologías emergentes",
     "Desarrollar habilidades de liderazgo técnico",
-    "Trabajar en empresas tecnológicas reconocidas",
-    "Contribuir a proyectos de impacto"
+    "Contribuir a proyectos de impacto global"
   ],
-  values: ["Compromiso", "Responsabilidad", "Crecimiento profesional", "Aprendizaje continuo"]
+  values: ["Compromiso", "Responsabilidad", "Crecimiento profesional", "Aprendizaje continuo"],
+  mindset: "Siempre explorando nuevas posibilidades tecnológicas"
 };
 ```
 
