@@ -1,56 +1,121 @@
+# 👋 ¡Hola! Soy Fernando
+
 <div align="center">
-  <h1 align="center">Hola, bienvenido a mi perfil👋</h1>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Desarrollador+Backend;Estudiante+de+Ingeniería;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+algo+Nuevo)
+
 </div>
-<img src="https://github.com/Sori18B/Sori18B/blob/efaf1fa567f6a330488252d064cc40685490a1a4/GITHUB%20PRESENTATION.png">
-<!--
-<p align="center">Sobre mí:</p>
-<p align="center">Soy </p>
-<p align="center">Contacto:</p>
-<p align="center"> <a href="https://www.instagram.com/sori19.js/"> <img src="https://skillicons.dev/icons?i=instagram" /> </p>
--->
 
+---
 
-<h1 align="center">Tecnologías:</h1>
-<p align="center">Bases de datos:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=light" />
-  </a>
-</p>
+## 🚀 Sobre Mí
 
-<p align="center">Lenguajes de programación:</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=light" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=,cs,py&theme=light" /></a>
-</p>
+> **Desarrollador Backend** con mentalidad **Full Stack** | **Estudiante de Ingeniería** comprometido con la excelencia
 
-<p align="center">Frameworks:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,dotnet,bootstrap&theme=light" />
-  </a>
-</p>
+Actualmente trabajo como **Desarrollador Backend** mientras curso mi carrera de ingeniería. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda aportar mi **liderazgo**, **compromiso** y **responsabilidad**.
 
-<p align="center">Herramientas:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,figma&theme=light" />
-  </a>
-</p>
+- 🎯 **Enfoque actual**: Desarrollo Backend con .NET
+- 🌱 **Creciendo hacia**: Desarrollador Full Stack
+- 💡 **Mentalidad**: Analítico y orientado a soluciones
+- 🎸 **Pasatiempos**: Guitarra, deportes (fútbol/basquet), videojuegos
+- 🌍 **Idiomas**: Español (nativo), Inglés y Portugués (aprendiendo)
 
-<!--
-*Sori18B/Sori18B* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Stack Tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### **Lenguajes**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### **Frameworks & Tecnologías**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Herramientas de Desarrollo**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Proyecto Destacado
+
+### 🎵 **Plugin de Audio Web para OJS**
+**Plugin personalizado para Base4** que implementa un reproductor de audio web con protección contra descargas no autorizadas.
+
+**Tecnologías utilizadas:** JavaScript, PHP, HTML5 Audio API  
+**Impacto:** Protección de contenido digital y mejora en la experiencia de usuario
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fer-O-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-O-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+</div>
+
+---
+
+## 🎯 Objetivos Profesionales
+
+```javascript
+const fernando = {
+  actualRole: "Backend Developer",
+  currentStatus: "Estudiante de Ingeniería",
+  goals: [
+    "Convertirme en Full Stack Developer",
+    "Trabajar en empresas tecnológicas reconocidas",
+    "Liderar equipos de desarrollo",
+    "Contribuir a proyectos de impacto"
+  ],
+  values: ["Compromiso", "Liderazgo", "Responsabilidad", "Aprendizaje continuo"]
+};
+```
+
+---
+
+## 🌟 Lo que me Motiva
+
+- 📚 **Aprendizaje constante**: Siempre buscando nuevas tecnologías y metodologías
+- 🔍 **Pensamiento analítico**: Me gusta analizar a fondo cada problema antes de solucionarlo
+- 🏗️ **Construcción de soluciones**: Desde la planificación hasta la implementación
+- 🤝 **Trabajo en equipo**: Creo en el poder de la colaboración y el liderazgo positivo
+
+---
+
+## 📫 ¡Conectemos!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fer-O-S)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"La tecnología es mejor cuando acerca a las personas"* - Matt Mullenweg
+
+**¡Gracias por visitar mi perfil! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fer-O-S&color=brightgreen&style=for-the-badge)
+
+</div>
