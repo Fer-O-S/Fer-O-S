@@ -142,4 +142,4 @@ const fernando = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fer-O-S&color=brightgreen&style=for-the-badge)
 
-</div>fer
+</div>
