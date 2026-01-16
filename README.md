@@ -124,8 +124,6 @@ const fernando = {
 
 <div align="center">
 
-### 💭 *"La tecnología es mejor cuando acerca a las personas"* - Matt Mullenweg
-
 **¡Gracias por visitar mi perfil! 🚀**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fer-O-S&color=brightgreen&style=for-the-badge)
