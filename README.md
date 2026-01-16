@@ -76,18 +76,6 @@ Apasionado por crear soluciones tecnológicas innovadoras, con experiencia en de
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fer-O-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-O-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-
-</div>
-
----
-
 ## 🎯 Objetivos Profesionales
 
 ```javascript
