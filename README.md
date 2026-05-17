@@ -1,116 +1,116 @@
-# 👋 ¡Hola! Soy Fernando
+# Backend Developer
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Desarrollador+Backend;Estudiante+de+Ingeniería;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+algo+Nuevo)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Desarrollador+Backend;C%C3%B3digo+Eficiente+y+Seguro;JavaScript+%2F+TypeScript)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
-> **Desarrollador Backend** con mentalidad **Full Stack** | **Estudiante de Ingeniería** comprometido con la excelencia
+> **Ingeniería en Desarrollo y Gestión de Software**
 
-Apasionado por crear soluciones tecnológicas innovadoras, con experiencia en desarrollo web, APIs y aplicaciones móviles. Mi objetivo es crecer profesionalmente y formar parte de empresas reconocidas donde pueda desarrollar mis habilidades de **liderazgo**, aplicar mi **compromiso** y demostrar mi **responsabilidad**.
+Ingeniero de Software enfocado en el desarrollo Backend dentro del ecosistema JavaScript/TypeScript (Node.js y NestJS). Me apasiona diseñar APIs RESTful seguras, aplicar arquitectura limpia y optimizar bases de datos para reducir costos operativos y mejorar el rendimiento de los sistemas. 
 
-- 🎯 **Especialidades**: Web Development, Backend Development, APIs REST, Mobile Development
-- 🌱 **Explorando**: Arquitecturas de microservicios y tecnologías emergentes
-- 🔧 **Stack versatil**: Web y Mobile
-- 💡 **Mentalidad**: Analítico y orientado a soluciones
-- 🎸 **Pasatiempos**: Guitarra, deportes (fútbol/basquet), videojuegos
-- 🌍 **Idiomas**: Español (nativo), Inglés y Portugués (aprendiendo)
+- **Especialidades**: Backend Development, API Design, Database Optimization, Mobile Development.
+- **Explorando**: Arquitecturas de microservicios, patrones avanzados de diseño y escalabilidad.
+- **Stack Versátil**: Alta capacidad para rotar y adaptarme eficazmente entre proyectos Web y Móviles.
+- **Mentalidad**: Analítico, orientado a resolver problemas de lógica de negocio y eficiencia técnica.
+- **Pasatiempos**: Guitarra, fútbol, básquetbol y videojuegos.
+- **Idiomas**: Español (Nativo), Inglés (Competencia técnica intermedia / Comprensión y escritura pasiva).
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
 ### **Lenguajes**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Frameworks & Tecnologías**
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### **Frameworks & Tecnologías Backend**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### **Desarrollo Frontend & Móvil**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Bases de Datos & ORMs**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### **Herramientas de Desarrollo**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Construyendo con Tecnología
+## Construyendo con Tecnología
 
 <div align="center">
 
-**🚀 APIs robustas y escalables**  
-**📱 Aplicaciones móviles nativas**  
-**🌐 Soluciones web modernas**
+**APIs robustas, escalables y seguras** **Optimización de recursos y reducción de costos en infraestructura** **Soluciones multiplataforma eficientes (Web y Móvil)**
 
-*"De la idea al código, explorando todas las posibilidades"*
+*"Transformando lógica compleja en código eficiente y soluciones de negocio."*
 
 </div>
 
 ---
 
-## 🎯 Objetivos Profesionales
+## Objetivos Profesionales
 
 ```javascript
 const fernando = {
-  role: "Backend Developer & Student",
-  technologies: ["NestJS", ".NET", "TypeScript", "Flutter", "Angular"],
+  role: "Software Engineer / Backend Developer",
+  coreStack: ["NestJS", "Node.js", "TypeScript", "PostgreSQL", "Prisma ORM"],
   capabilities: [
-    "API Development & Integration", 
-    "Mobile App Development", 
-    "Web Applications",
-    "Database Design"
+    "Secure API Development & Integration", 
+    "Database Optimization & Indexing",
+    "Cost-Effective Infrastructure Solutions",
+    "Cross-Platform Adaptability (Web & Mobile)"
   ],
   goals: [
-    "Dominar arquitecturas de microservicios",
-    "Explorar nuevas tecnologías emergentes",
-    "Desarrollar habilidades de liderazgo técnico",
-    "Contribuir a proyectos de impacto global"
+    "Dominar arquitecturas complejas (Hexagonal / Microservicios)",
+    "Implementar soluciones robustas de alta disponibilidad",
+    "Expandir el dominio de ecosistemas backend con .NET y Python",
+    "Aportar valor estratégico reduciendo costos operativos de software"
   ],
-  values: ["Compromiso", "Responsabilidad", "Crecimiento profesional", "Aprendizaje continuo"],
-  mindset: "Siempre explorando nuevas posibilidades tecnológicas"
+  values: ["Eficiencia", "Responsabilidad", "Pensamiento analítico", "Aprendizaje continuo"]
 };
 ```
 
 ---
 
-## 🌟 Lo que me Motiva
+## Lo que me Motiva
 
-- 📚 **Aprendizaje constante**: Siempre buscando nuevas tecnologías y metodologías
-- 🔍 **Pensamiento analítico**: Me gusta analizar a fondo cada problema antes de solucionarlo
-- 🏗️ **Construcción de soluciones**: Desde la planificación hasta la implementación
-- 🤝 **Trabajo en equipo**: Creo en el poder de la colaboración y el liderazgo positivo
+- **Aprendizaje constante**: Siempre buscando nuevas tecnologías y metodologías
+- **Pensamiento analítico**: Me gusta analizar a fondo cada problema antes de solucionarlo
+- **Construcción de soluciones**: Desde la planificación hasta la implementación
+- **Trabajo en equipo**: Creo en el poder de la colaboración y el liderazgo positivo
 
 ---
 
-## 📫 ¡Conectemos!
+## ¡Conectemos!
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const fernando = {
 
 <div align="center">
 
-**¡Gracias por visitar mi perfil! 🚀**
+**¡Gracias por visitar mi perfil! **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fer-O-S&color=brightgreen&style=for-the-badge)
 
